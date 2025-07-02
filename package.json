@@ -1,7 +1,11 @@
 {
-  "name": "inzaghi-api",
+  "name": "tcpro-api",
   "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "ua-parser-js": "^1.0.2"
+    "axios": "^1.6.7"
   }
 }
